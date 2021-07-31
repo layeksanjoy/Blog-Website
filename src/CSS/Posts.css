@@ -1,0 +1,41 @@
+.body {
+  padding: 0;
+  margin: 0;
+}
+
+.showpost-main {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 1rem;
+  color: #2a2722;
+  background-color: white;
+  border: 0.5rem;
+  padding: 0.5rem;
+  border: 0.4px solid rgba(131, 131, 131, 0.137);
+}
+.showpost-buttons:last-child {
+  display: flex;
+  margin-left: auto;
+}
+
+.showpost-main-up-arrow:hover {
+  fill: red;
+  cursor: pointer;
+}
+
+.showpost-main-down-arrow:hover {
+  fill: #2a35de;
+  cursor: pointer;
+}
+.showpost-comment-button {
+  margin-left: auto;
+}
+.showpost-main-comment {
+  fill: black;
+}
+.showpost-main-comment:hover {
+  fill: #2a35de;
+  cursor: pointer;
+}

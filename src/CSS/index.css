@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container-button-div {
+  float: right;
+}
+.container-button-add:hover {
+  fill: #2a35de;
+  cursor: pointer;
+}
